@@ -102,3 +102,5 @@ cmake-build-debug
 !tests/cases/*.out
 *.pyc
 /amalgamated-dist
+
+/builddir
